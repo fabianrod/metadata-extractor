@@ -1,0 +1,11 @@
+C:\Users\asus pc\Desktop\Informes fotográficos\Informes fotográficos\obj\Debug\Informes_fotográficos.Form1.resources
+C:\Users\asus pc\Desktop\Informes fotográficos\Informes fotográficos\obj\Debug\Informes_fotográficos.Resources.resources
+C:\Users\asus pc\Desktop\Informes fotográficos\Informes fotográficos\obj\Debug\Informes fotográficos.vbproj.GenerateResource.Cache
+C:\Users\asus pc\Desktop\Informes fotográficos\Informes fotográficos\obj\Debug\Informes fotográficos.vbprojResolveAssemblyReference.cache
+C:\Users\asus pc\Desktop\Informes fotográficos\Informes fotográficos\bin\Debug\Generador de informes.exe.config
+C:\Users\asus pc\Desktop\Informes fotográficos\Informes fotográficos\bin\Debug\Generador de informes.exe
+C:\Users\asus pc\Desktop\Informes fotográficos\Informes fotográficos\bin\Debug\Generador de informes.pdb
+C:\Users\asus pc\Desktop\Informes fotográficos\Informes fotográficos\bin\Debug\Generador de informes.xml
+C:\Users\asus pc\Desktop\Informes fotográficos\Informes fotográficos\obj\Debug\Generador de informes.exe
+C:\Users\asus pc\Desktop\Informes fotográficos\Informes fotográficos\obj\Debug\Generador de informes.xml
+C:\Users\asus pc\Desktop\Informes fotográficos\Informes fotográficos\obj\Debug\Generador de informes.pdb

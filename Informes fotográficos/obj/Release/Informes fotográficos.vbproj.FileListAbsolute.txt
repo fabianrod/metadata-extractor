@@ -1,0 +1,15 @@
+C:\Users\asus pc\Desktop\Informes fotográficos\Informes fotográficos\obj\Release\Informes_fotográficos.Form1.resources
+C:\Users\asus pc\Desktop\Informes fotográficos\Informes fotográficos\obj\Release\Informes_fotográficos.Resources.resources
+C:\Users\asus pc\Desktop\Informes fotográficos\Informes fotográficos\obj\Release\Informes fotográficos.vbproj.GenerateResource.Cache
+C:\Users\asus pc\Desktop\Informes fotográficos\Informes fotográficos\bin\Release\Generador de informes.exe.config
+C:\Users\asus pc\Desktop\Informes fotográficos\Informes fotográficos\bin\Release\Generador de informes.exe
+C:\Users\asus pc\Desktop\Informes fotográficos\Informes fotográficos\bin\Release\Generador de informes.pdb
+C:\Users\asus pc\Desktop\Informes fotográficos\Informes fotográficos\bin\Release\Generador de informes.xml
+C:\Users\asus pc\Desktop\Informes fotográficos\Informes fotográficos\obj\Release\Generador de informes.exe
+C:\Users\asus pc\Desktop\Informes fotográficos\Informes fotográficos\obj\Release\Generador de informes.xml
+C:\Users\asus pc\Desktop\Informes fotográficos\Informes fotográficos\obj\Release\Generador de informes.pdb
+C:\Users\asus pc\Desktop\Informes fotográficos\Informes fotográficos\obj\Release\Informes fotográficos.vbprojResolveAssemblyReference.cache
+C:\Users\Fabian\Downloads\Informes fotográficos\Informes fotográficos\bin\Release\Generador de informes.exe.config
+C:\Users\Fabian\Downloads\Informes fotográficos\Informes fotográficos\obj\Release\Generador de informes.exe
+C:\Users\Fabian\Downloads\Informes fotográficos\Informes fotográficos\obj\Release\Generador de informes.xml
+C:\Users\Fabian\Downloads\Informes fotográficos\Informes fotográficos\obj\Release\Generador de informes.pdb
